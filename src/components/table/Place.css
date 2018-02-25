@@ -1,0 +1,12 @@
+div.place {
+    width: 25px;
+    height: 50px;
+    background-color: gainsboro;
+    margin-left: 5px;
+    margin-top: 5px;
+    float: left;
+}
+.person {
+    background: url("../../img/person.png") center;
+    background-size: cover;
+}

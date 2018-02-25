@@ -1,0 +1,8 @@
+div.table-list {
+    height: 275px;
+    width: 820px;
+    margin: 25px auto;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-left: 5px;
+}
